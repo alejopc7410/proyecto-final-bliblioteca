@@ -1,0 +1,78 @@
+Secci?n 'Referencia' creada con capacidad 10
+Secci?n 'Literatura' creada con capacidad 8
+Secci?n 'Ciencias' creada con capacidad 6
+Marta Rojas registrado en la biblioteca.
+Juli?n Pardo registrado en la biblioteca.
+Diana Cruz registrado en la biblioteca.
+
+========== SISTEMA DE BIBLIOTECA ==========
+1. Registrar recurso
+2. Listar recursos registrados
+3. Ubicar recurso en una secci?n
+4. Registrar pr?stamo
+5. Listar recursos de una secci?n
+6. Ver pr?stamos de un bibliotecario
+7. Retirar recurso de una secci?n
+8. Buscar recurso por c?digo
+9. Reporte general
+10. Crear secci?n
+0. Salir
+Selecciona una opci?n: Tipo (1=Libro, 2=Digital): T?tulo: C?digo sin espacios: A?o de publicaci?n (1450-2026): Autor: N?mero de p?ginas: Recurso registrado correctamente. Ahora ub?calo en una secci?n.
+
+========== SISTEMA DE BIBLIOTECA ==========
+1. Registrar recurso
+2. Listar recursos registrados
+3. Ubicar recurso en una secci?n
+4. Registrar pr?stamo
+5. Listar recursos de una secci?n
+6. Ver pr?stamos de un bibliotecario
+7. Retirar recurso de una secci?n
+8. Buscar recurso por c?digo
+9. Reporte general
+10. Crear secci?n
+0. Salir
+Selecciona una opci?n: C?digo del recurso: Nombre de la secci?n: Recurso Algoritmos ubicado en secci?n Literatura
+
+========== SISTEMA DE BIBLIOTECA ==========
+1. Registrar recurso
+2. Listar recursos registrados
+3. Ubicar recurso en una secci?n
+4. Registrar pr?stamo
+5. Listar recursos de una secci?n
+6. Ver pr?stamos de un bibliotecario
+7. Retirar recurso de una secci?n
+8. Buscar recurso por c?digo
+9. Reporte general
+10. Crear secci?n
+0. Salir
+Selecciona una opci?n: B001 - Marta Rojas (Circulaci?n)
+B002 - Juli?n Pardo (Referencia)
+ID del bibliotecario: C?digo del recurso ubicado en una secci?n: Fecha del pr?stamo: Nombre del lector: ?Agregar observaci?n? (s/n): Pr?stamo registrado: Algoritmos a Luis
+
+========== SISTEMA DE BIBLIOTECA ==========
+1. Registrar recurso
+2. Listar recursos registrados
+3. Ubicar recurso en una secci?n
+4. Registrar pr?stamo
+5. Listar recursos de una secci?n
+6. Ver pr?stamos de un bibliotecario
+7. Retirar recurso de una secci?n
+8. Buscar recurso por c?digo
+9. Reporte general
+10. Crear secci?n
+0. Salir
+Selecciona una opci?n: ID del bibliotecario: Pr?stamo: 2026-11-17 | Lector: Luis | Recurso: Algoritmos | Bibliotecario: Marta Rojas | Nota: Pr?stamo est?ndar
+
+========== SISTEMA DE BIBLIOTECA ==========
+1. Registrar recurso
+2. Listar recursos registrados
+3. Ubicar recurso en una secci?n
+4. Registrar pr?stamo
+5. Listar recursos de una secci?n
+6. Ver pr?stamos de un bibliotecario
+7. Retirar recurso de una secci?n
+8. Buscar recurso por c?digo
+9. Reporte general
+10. Crear secci?n
+0. Salir
+Selecciona una opci?n: Gracias por utilizar el sistema.

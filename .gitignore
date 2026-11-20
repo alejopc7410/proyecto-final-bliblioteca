@@ -1,0 +1,23 @@
+# Java build output
+*.class
+bin/
+out/
+target/
+
+# Java packaging
+*.jar
+*.war
+*.ear
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
